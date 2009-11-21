@@ -3,11 +3,11 @@
 This is just an other PHP MVC framework. How much more do
 you want to know about it?
 
-For documentation look at its github wiki: http://wiki.github.com/ironsmile/php-mvc
+For documentation look at its github wiki: http://wiki.github.com/ironsmile/just-another-php-mvc
 
 == License
 
-It is GPL. For more information goto http://www.gnu.org/licenses/
+It is GPL. For more information goto http://www.gnu.org/licenses
 
 In short - do whatever you want to and be happy.
 You don't need any permission or anything.
